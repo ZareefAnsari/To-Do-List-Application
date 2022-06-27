@@ -1,0 +1,2 @@
+# To-Do-List-Application
+The application is built for saving the tasks which user decides to perform in the upcoming time. Now a days each and every person is busy and there are lot of things in a whole day which one person performs and during this period anyone may forgot other tasks which they decide to do, that’s why I have decided to design an application so that one can easily save the task which user wants to perform.
